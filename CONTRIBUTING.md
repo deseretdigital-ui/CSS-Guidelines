@@ -8,7 +8,7 @@ please include this snippet in the issue:
 ```markdown
 __Before Closing Issue:__
 
-+ [x] Response from @jstoutenburg
++ [ ] Response from @jstoutenburg
 + [ ] Response from @janiv
 + [ ] Response from @kbratko
 + [ ] Response from @jspencerDDM
